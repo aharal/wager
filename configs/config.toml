@@ -1,0 +1,9 @@
+port="8080" #server port
+siteurl="http://localhost:8080" #
+environment=0
+databaseserver="localhost"
+databasename="typicode"
+username="root"
+password="password"
+logfile="./logs/"
+jwtsecretkey="secret"
